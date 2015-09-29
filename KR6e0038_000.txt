@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說較量一切佛剎功德經
+#+DATE: 2015-09-28 22:56:05.356828
+#+PROPERTY: JUAN 0
