@@ -1,11 +1,14 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:56:05.139559
-#+TITLE: 佛說較量一切佛剎功德經
-#+PROPERTY: CBETA_ID T10n0290
-#+PROPERTY: ID KR6e0038
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 290
-#+PROPERTY: VOL 10
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0038_T_000-0592a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+TITLE: 佛說較量一切佛剎功德經 / master
+#+DATE: 2015-11-26 14:11:55.896405
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
+ |    T@GONG|【大→宮】   |
+ |    T@MING|【大→明】   |
+ |    T@SONG|【大→宋】   |
+ |    T@YUAN|【大→元】   |
+ |       TKD|【高麗藏・東國影印版】|
 
+* 目次
+* 卷
+** [[file:KR6e0038_001.txt][佛說較量一切佛剎功德經 1]]
