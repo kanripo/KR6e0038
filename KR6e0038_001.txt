@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:05.158481
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:42
 #+TITLE: 佛說較量一切佛剎功德經
 #+PROPERTY: CBETA_ID T10n0290
 #+PROPERTY: ID KR6e0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 10, No. 290
 #+PROPERTY: VOL 10
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0038_T_000-0592a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6e0038_T_001-0592a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.290[Nos.278(26),279(31),289]¶
-
- 《佛說較量一切佛剎功德經》¶
+No. 290 [Nos. 278(26), 279(31), 289]¶
+《佛說較量一切佛剎功德經》¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 如是我聞：
 
