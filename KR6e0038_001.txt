@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:56:06.489511
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:42
 #+TITLE: 佛說較量一切佛剎功德經
 #+PROPERTY: CBETA_ID T10n0290
 #+PROPERTY: ID KR6e0038
